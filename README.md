@@ -14,7 +14,7 @@ JavaScript • React • Node • Express
 - 🛒 E-commerce completo (React + gestione carrello dinamica)
 - 🎧 Game Store 
 - 📊 Dashboard con layout complesso e gestione componenti
-- 
+  
 ---
 
 ## 🎯 Attualmente
