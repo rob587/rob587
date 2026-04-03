@@ -26,5 +26,5 @@ Sto consolidando le mie competenze in React e migliorando il mio problem solving
 ---
 
 ## 📫 Contatti
-LinkedIn: https://www.linkedin.com/in/roberto-cammarata-331452222/
+LinkedIn: https://www.linkedin.com/in/roberto-cammarata/
 Email: robertocamm02@yahoo.com
