@@ -18,6 +18,7 @@ Mi piace trasformare un’idea in un’interfaccia concreta, funzionale e curata
 - 🛒 E-commerce completo (React + gestione carrello dinamica)
 - 🎧 Game Store 
 - 📊 Dashboard con layout complesso e gestione componenti
+- 🎬 App mobile React Native con TMDB API, ricerca, preferiti persistenti e navigazione multi-schermata
   
 ---
 
